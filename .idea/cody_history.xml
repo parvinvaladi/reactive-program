@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChatHistory">
+    <chats>
+      <list>
+        <chat>
+          <accountId value="VXNlcjozMTE3Mzc=" />
+          <internalId value="0098fe95-dd2b-4351-ab06-bb6f2dbf735d" />
+        </chat>
+        <chat>
+          <accountId value="VXNlcjozMTE3Mzc=" />
+          <internalId value="3c51816d-a97b-4d9b-9602-ffcbd3f14704" />
+          <messages>
+            <list>
+              <message>
+                <speaker value="HUMAN" />
+                <text value="hi" />
+              </message>
+              <message>
+                <speaker value="ASSISTANT" />
+              </message>
+            </list>
+          </messages>
+          <updatedAt value="2024-06-12T10:10:44.53375082" />
+        </chat>
+        <chat>
+          <accountId value="VXNlcjozMTE3Mzc=" />
+          <internalId value="cd7fd4f5-78fd-49ad-af6d-7ae61b83cfe2" />
+        </chat>
+      </list>
+    </chats>
+  </component>
+</project>
